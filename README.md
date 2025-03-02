@@ -1,6 +1,6 @@
 # La génèse du projet
 
-Ce projet de début de cursus, vise à parfaire nos compréhension des domaines suivants : 
+Ce projet de début de cursus, vise à parfaire notre compréhension des domaines suivants : 
 
 - API Windows  
 - Intéractions entre l'API Windows et les différentes sphères du système d'exploitation  
